@@ -1,0 +1,24 @@
+<tml>
+	<head>
+		<style href="css/public.css"/>
+		<script src="commonJs/tools.js"/>
+		<style href="css/login.css"/>
+		<script src="commonJs/login.js"/>
+	</head>
+	<body>
+		<button value="rotation" class="btn_blue" id="" onclick="start()" />
+		<div class="divs" id="div1">
+		
+		</div>
+
+		<button value="rotation" class="btn_blue" id="" onclick="start1()" />
+		<div class="divs" id="div2">
+		
+		</div>
+		
+		<button value="rotation" class="btn_blue" id="" onclick="start2()" />
+		<div class="divs" id="div3">
+		
+		</div>
+	</body>
+</tml>
